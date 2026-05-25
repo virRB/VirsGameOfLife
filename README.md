@@ -10,8 +10,8 @@ This is my own take on [Conway's Game of Life](https://en.wikipedia.org/wiki/Con
 
 ## The system
 - *Each cell has a state or class, with their own interaction rules*
-  > Landlord (rich)
-  > Robber (you get it 😏)
-  > Guard (guy who protects the rich to get rich)
-  > Scared (Enjoys chaos?)
-  > Peace (The zen guy)
+  - Landlord (rich)
+  - Robber (you get it 😏)
+  - Guard (guy who protects the rich to get rich)
+  - Scared (Enjoys chaos?)
+  - Peace (The zen guy)
